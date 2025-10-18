@@ -287,7 +287,7 @@ Package selected: FlipChip package
       Step 1 : Open AEDT and launch Icepak
 
       
-<img width="1845" height="971" alt="f1" src="https://github.com/user-attachments/assets/c9bc3a43-1706-4eca-96d0-ede5f0a7935a" />
+<img width="1845" height="971" alt="f1" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1786).png" />
 
 
 >>      Select Flipchip BGA Package: Icepak -> Toolkit -> Geometry -> Packages -> Flipchip_BGA
