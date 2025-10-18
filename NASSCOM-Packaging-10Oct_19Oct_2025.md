@@ -409,37 +409,10 @@ Package selected: FlipChip package
 
 
 
-![WhatsApp Image 2025-07-10 at 9 58 50 AM](https://github.com/user-attachments/assets/36535ab1-d3a8-4244-a456-2bafc9d16c9a)
-
-![WhatsApp Image 2025-07-10 at 9 58 51 AM](https://github.com/user-attachments/assets/4d97956a-4037-424b-85b3-9952c1bf1712)
 
 >> Package: QFN Package
 
-![WhatsApp Image 2025-07-10 at 10 19 27 AM](https://github.com/user-attachments/assets/78d7e576-09d9-4c45-8743-10c87d693ec0)
 
-![WhatsApp Image 2025-07-10 at 10 19 28 AM (1)](https://github.com/user-attachments/assets/8145c5fa-286c-49b4-9435-44f27c606793)
-
-![WhatsApp Image 2025-07-10 at 10 19 33 AM](https://github.com/user-attachments/assets/1d001cef-8944-4968-ba4b-8fc347c707cc)
-
-![WhatsApp Image 2025-07-10 at 10 19 28 AM](https://github.com/user-attachments/assets/e76f5046-bcb1-4268-bba5-b8bf78ddd2ba)
-
-![WhatsApp Image 2025-07-10 at 10 19 28 AM (2)](https://github.com/user-attachments/assets/51e09029-fd53-49ca-8a79-54625947b041)
-
-![WhatsApp Image 2025-07-10 at 10 19 29 AM](https://github.com/user-attachments/assets/56058a12-a04e-4632-9ff4-7a260cbeb1b9)
-
-![WhatsApp Image 2025-07-10 at 10 19 33 AM (2)](https://github.com/user-attachments/assets/2a4401f5-33b7-4a68-8d0f-910ecd7f1ae8)
-
-![WhatsApp Image 2025-07-10 at 10 19 33 AM (1)](https://github.com/user-attachments/assets/22cdbee9-07d0-4982-a733-34f26261be96)
-
-![WhatsApp Image 2025-07-10 at 10 19 32 AM](https://github.com/user-attachments/assets/c8007e3a-ac64-4082-a166-12ebef087539)
-
-![WhatsApp Image 2025-07-10 at 10 19 32 AM (2)](https://github.com/user-attachments/assets/036b19ef-97dd-4a80-ae3a-1ca0383a06d9)
-
-![WhatsApp Image 2025-07-10 at 10 19 32 AM (1)](https://github.com/user-attachments/assets/e0057751-3633-459f-ac62-04017f25ec21)
-
-![WhatsApp Image 2025-07-10 at 10 19 31 AM](https://github.com/user-attachments/assets/e2bb5a18-64ad-454d-99b9-7c24de6d59bb)
-
-![WhatsApp Image 2025-07-10 at 10 19 31 AM (1)](https://github.com/user-attachments/assets/f03784d4-255d-4a1a-b88c-dc2df929c399)
 
 
 # Module 4: Ensuring Package reliability: Testing and Performance Validation
@@ -515,7 +488,7 @@ Summary
                 Modeler -> Units...
                 Choose mm or um as the working unit for creating the model.
 
->> ![WhatsApp Image 2025-07-10 at 4 42 38 PM (2)](https://github.com/user-attachments/assets/4c10fff1-177a-45f3-a04c-663200c43898)
+
 
 >>      Create the Die Geometry- Select the rectangle tool from the ribbon or using the Menus (Draw -> Rectangle) to draw a rectangle
                                    double click on CreateRectangle Model -> Rectangle1 to open up its Properties Dialog box.
@@ -527,13 +500,7 @@ Summary
                                Rename the geometry to Die
                                     Choose Silicon as the material from the Material Library
 
-![WhatsApp Image 2025-07-10 at 4 42 38 PM (1)](https://github.com/user-attachments/assets/9c415093-077b-4a1d-8d5a-54b5267315c1)
 
-
-![WhatsApp Image 2025-07-10 at 4 42 38 PM (3)](https://github.com/user-attachments/assets/f94e5d56-d49e-41e8-a04d-54a9ff41c768)
-
-
-![WhatsApp Image 2025-07-10 at 4 42 38 PM](https://github.com/user-attachments/assets/819c9abb-ede6-4e12-9785-8d6088b2acdb)
 
 >>     Create the Substrate Geometry
 >>               Draw another rectangle for the substrate (5mm x 5mm) and position (-1, -1, 0) it such that the die is at the center.
@@ -541,15 +508,7 @@ Summary
                  
                  Adjust the substrate position along Z-axis to account for the die attach thickness -> (-1, -1, -0.1)
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (10)](https://github.com/user-attachments/assets/4a530a1d-a521-4197-9b7f-86715fe98e6f)
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (8)](https://github.com/user-attachments/assets/687679d0-ebc3-421b-9a44-aed46141955a)
-
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (7)](https://github.com/user-attachments/assets/a5ad8e28-dd5b-4259-9275-ce554a5dcf5e)
-
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (6)](https://github.com/user-attachments/assets/835cb817-d11a-4d79-b004-65e85c2d44e0)
-
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (5)](https://github.com/user-attachments/assets/de936e1b-fa13-494f-b45f-d195b22aac18)
 
 >> Adding Die Attach Material and Bond Pads
 >>
@@ -559,10 +518,7 @@ Summary
 
 
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (4)](https://github.com/user-attachments/assets/e54b552d-3739-4c61-b686-4e152e03d629)
 
-
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (3)](https://github.com/user-attachments/assets/cc5e5c61-d133-40f2-b7e9-eb75f17aaa7b)
 
 >>      Create Bond pads on Die and Substrate
           Draw a small rectangle and configure its size to to that of the die pad (0.2mm x 0.2mm) -> place the first Die Pad at the co-ordinates (0.2, 0.2, 0.2) so that it sits on top of the die and is at one of the edges. Set the thickness to  0.005mm
@@ -581,9 +537,7 @@ Summary
                                                    Position at (-1, -1, -0.1) covering the top side of the substrate.
                                                    Set the thickness to 1.2mm so that it covers the die and the bondwires, while also leaving margin for any laser marking processes
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (2)](https://github.com/user-attachments/assets/480fd0b2-16c0-4f9b-b18a-a205e8022692)
 
-![WhatsApp Image 2025<img width="1920" height="1080" alt="p1" src="https://github.com/user-attachments/assets/05758841-684f-4895-8205-a47e1c647fe8" />
 
 <img width="1920" height="1080" alt="p1" src="https://github.com/user-attachments/assets/998b7cb5-69dd-42fe-883d-160bbff8037f" />
 
@@ -607,4 +561,5 @@ Mr. Kunal Ghosh, VSD
 Prof.Tarun Agarwal, Professor-IIT Gandhinagar
 
 Abhimanyu Singh, ANSYS
+
 
