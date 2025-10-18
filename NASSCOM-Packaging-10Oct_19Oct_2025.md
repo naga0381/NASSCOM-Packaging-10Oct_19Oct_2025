@@ -288,7 +288,7 @@ Package selected: FlipChip package
 
       
 <img width="1845" height="971" alt="f1" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1786).png" />
-
+<img width="1845" height="971" alt="f1" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1787).png" />
 
 >>      Select Flipchip BGA Package: Icepak -> Toolkit -> Geometry -> Packages -> Flipchip_BGA
 <img width="821" height="601" alt="image" src="https://github.com/user-attachments/assets/7ab561a8-57c7-49d8-8f87-bf017783561d" />
@@ -297,7 +297,7 @@ Package selected: FlipChip package
 >>       Package Configuration window opens up -Configure the dimensions and other aspects of the package, substrate, die, die underfill and the solder balls based on the datasheet.Once configured, click OK to generate the package model.
 
 
-![WhatsApp<img width="1023" height="526" alt="f3" src="https://github.com/user-attachments/assets/8d39b39b-1219-44e8-8c72-d26c6d6352ae" />
+
 
 
 <img width="1034" height="564" alt="f4" src="https://github.com/user-attachments/assets/fe620e60-aef8-4101-b632-0dd5681a2df8" />
@@ -312,19 +312,19 @@ Package selected: FlipChip package
 >>      Package generated in Icepak
 
 
-<img width="1824" height="950" alt="f8" src="https://github.com/user-attachments/assets/85fc8959-0b96-4473-8a09-7ac48ff36bbb" />
+<img width="1824" height="950" alt="f8" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1788).png" />
 
 
 >>      3D Package Model Structure in Icepak
 >> 
-<img width="1850" height="911" alt="f9" src="https://github.com/user-attachments/assets/7aa3b2d3-1be9-444a-8f73-1a603308ab69" />
+<img width="1850" height="911" alt="f9" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1789).png" />
 
 
-<img width="1551" height="691" alt="f10" src="https://github.com/user-attachments/assets/77c0fa98-2a8b-45cd-b2e4-937725a05a31" />
+<img width="1551" height="691" alt="f10" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1790).png" />
 
 
 
-<img width="1720" height="979" alt="f11" src="https://github.com/user-attachments/assets/1de3fc13-b8d0-414e-965d-146e4565c105" />
+<img width="1720" height="979" alt="f11" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1791).png" />
 
 
 >>      Material Definitions And Thermal Power Sources
