@@ -249,7 +249,7 @@ Wire bonding is a critical process used in microelectronics to create electrical
                   5. Molding (Encapsulation)
                   6. Post-Mold Cure (PMC)
 
-<img width="1031" height="541" alt="image" src="https://github.com/user-attachments/assets/53ee318a-0faa-47bf-ac6b-e28be2d17d21" />
+<img width="1031" height="541" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1786).png" />
 
 <img width="1047" height="469" alt="image" src="https://github.com/user-attachments/assets/e1745b4c-1759-41f8-b133-40efe6cdd00a" />
 
