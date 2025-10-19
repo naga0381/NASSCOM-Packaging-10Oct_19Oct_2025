@@ -56,9 +56,9 @@ Key Materials:
 >> Leads/Balls – Metal connections made of copper, tin, gold, or alloys.
 >> Thermal Interface Material (TIM) – Enhances heat transfer from the chip to the package or heatsink.
 >> 
-<img width="1048" height="585" alt="image" src="https://github.com/user-attachments/assets/49a54217-2311-4aa2-abb1-0eee742f3e1b" />
+<img width="1048" height="585" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/TYPICAL%20PACKAGE%20STRUCTURE.jpg" />
 
-<img width="1043" height="578" alt="image" src="https://github.com/user-attachments/assets/b01aeb1c-387d-4e4b-a253-aec440c0d65d" />
+<img width="1043" height="578" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/ATONOMY%20OF%20PACKAGE.jpg" />
 
 
 <img width="2596" height="1096" alt="image" src="https://github.com/user-attachments/assets/666c31cb-01bb-4633-b367-13579a2ee321" />
