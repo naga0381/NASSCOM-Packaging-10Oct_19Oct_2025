@@ -462,6 +462,7 @@ Summary
 <img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/MODULE5.jpg" />
 <img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/17.jpg" />
 
+
 >> Package Design and Modelling
               Simulator module: Q3D design
 >> 
@@ -499,7 +500,7 @@ Summary
                 Modeler -> Units...
                 Choose mm or um as the working unit for creating the model.
 
-
+>> ![WhatsApp Image 2025-07-10 at 4 42 38 PM (2)](https://github.com/user-attachments/assets/4c10fff1-177a-45f3-a04c-663200c43898)
 
 >>      Create the Die Geometry- Select the rectangle tool from the ribbon or using the Menus (Draw -> Rectangle) to draw a rectangle
                                    double click on CreateRectangle Model -> Rectangle1 to open up its Properties Dialog box.
@@ -511,10 +512,13 @@ Summary
                                Rename the geometry to Die
                                     Choose Silicon as the material from the Material Library
 
+![WhatsApp Image 2025-07-10 at 4 42 38 PM (1)](https://github.com/user-attachments/assets/9c415093-077b-4a1d-8d5a-54b5267315c1)
 
 
+![WhatsApp Image 2025-07-10 at 4 42 38 PM (3)](https://github.com/user-attachments/assets/f94e5d56-d49e-41e8-a04d-54a9ff41c768)
 
 
+![WhatsApp Image 2025-07-10 at 4 42 38 PM](https://github.com/user-attachments/assets/819c9abb-ede6-4e12-9785-8d6088b2acdb)
 
 >>     Create the Substrate Geometry
 >>               Draw another rectangle for the substrate (5mm x 5mm) and position (-1, -1, 0) it such that the die is at the center.
@@ -522,7 +526,15 @@ Summary
                  
                  Adjust the substrate position along Z-axis to account for the die attach thickness -> (-1, -1, -0.1)
 
+![WhatsApp Image 2025-07-10 at 4 42 37 PM (10)](https://github.com/user-attachments/assets/4a530a1d-a521-4197-9b7f-86715fe98e6f)
 
+![WhatsApp Image 2025-07-10 at 4 42 37 PM (8)](https://github.com/user-attachments/assets/687679d0-ebc3-421b-9a44-aed46141955a)
+
+![WhatsApp Image 2025-07-10 at 4 42 37 PM (7)](https://github.com/user-attachments/assets/a5ad8e28-dd5b-4259-9275-ce554a5dcf5e)
+
+![WhatsApp Image 2025-07-10 at 4 42 37 PM (6)](https://github.com/user-attachments/assets/835cb817-d11a-4d79-b004-65e85c2d44e0)
+
+![WhatsApp Image 2025-07-10 at 4 42 37 PM (5)](https://github.com/user-attachments/assets/de936e1b-fa13-494f-b45f-d195b22aac18)
 
 >> Adding Die Attach Material and Bond Pads
 >>
@@ -532,7 +544,10 @@ Summary
 
 
 
+![WhatsApp Image 2025-07-10 at 4 42 37 PM (4)](https://github.com/user-attachments/assets/e54b552d-3739-4c61-b686-4e152e03d629)
 
+
+![WhatsApp Image 2025-07-10 at 4 42 37 PM (3)](https://github.com/user-attachments/assets/cc5e5c61-d133-40f2-b7e9-eb75f17aaa7b)
 
 >>      Create Bond pads on Die and Substrate
           Draw a small rectangle and configure its size to to that of the die pad (0.2mm x 0.2mm) -> place the first Die Pad at the co-ordinates (0.2, 0.2, 0.2) so that it sits on top of the die and is at one of the edges. Set the thickness to  0.005mm
@@ -551,9 +566,9 @@ Summary
                                                    Position at (-1, -1, -0.1) covering the top side of the substrate.
                                                    Set the thickness to 1.2mm so that it covers the die and the bondwires, while also leaving margin for any laser marking processes
 
+![WhatsApp Image 2025-07-10 at 4 42 37 PM (2)](https://github.com/user-attachments/assets/480fd0b2-16c0-4f9b-b18a-a205e8022692)
 
-
-
+![WhatsApp Image 2025<img width="1920" height="1080" alt="p1" src="https://github.com/user-attachments/assets/05758841-684f-4895-8205-a47e1c647fe8" />
 
 <img width="1920" height="1080" alt="p1" src="https://github.com/user-attachments/assets/998b7cb5-69dd-42fe-883d-160bbff8037f" />
 
@@ -575,4 +590,5 @@ Summary
 Mr. Kunal Ghosh, VSD
 
 Prof.Tarun Agarwal, Professor-IIT Gandhinagar
+
 
