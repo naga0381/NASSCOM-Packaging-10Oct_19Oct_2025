@@ -500,7 +500,8 @@ Summary
                 Modeler -> Units...
                 Choose mm or um as the working unit for creating the model.
 
->> ![WhatsApp Image 2025-07-10 at 4 42 38 PM (2)](https://github.com/user-attachments/assets/4c10fff1-177a-45f3-a04c-663200c43898)
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1826).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1827).png" />
 
 >>      Create the Die Geometry- Select the rectangle tool from the ribbon or using the Menus (Draw -> Rectangle) to draw a rectangle
                                    double click on CreateRectangle Model -> Rectangle1 to open up its Properties Dialog box.
