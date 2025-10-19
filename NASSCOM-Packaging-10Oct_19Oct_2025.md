@@ -1,7 +1,7 @@
 # NASSCOM-Packaging-10Oct_19Oct_2025
 
-<img width="1039" height="583" alt="image" src="https://github.com/user-attachments/assets/083dc621-5363-4f7d-84b2-4d02484da3c7" />
-
+<img width="1039" height="583" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/COURSE%20PLAN.jpg" />
+<img width="1039" height="583" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/MODULES.jpg" />
 
 # Module 1: Packaging Evolution: From Basics to 3D Integration
 L1: Introduction to Semiconductor Packaging
