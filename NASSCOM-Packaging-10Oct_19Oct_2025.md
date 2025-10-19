@@ -411,7 +411,8 @@ Package selected: FlipChip package
 
 
 >> Package: QFN Package
-
+<img width="1920" height="1080" alt="f31" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1779).png" />
+<img width="1876" height="981" alt="f30" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1780).png" />
 
 
 
