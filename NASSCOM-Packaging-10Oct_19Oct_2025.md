@@ -461,6 +461,7 @@ Summary
 # Module 5: Lab 2: Package Design and Modeling- Building a Semiconductor Package from Scratch
 <img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/MODULE5.jpg" />
 <img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/17.jpg" />
+
 >> Package Design and Modelling
               Simulator module: Q3D design
 >> 
@@ -512,6 +513,9 @@ Summary
 
 
 
+
+
+
 >>     Create the Substrate Geometry
 >>               Draw another rectangle for the substrate (5mm x 5mm) and position (-1, -1, 0) it such that the die is at the center.
                  Set the thickness as -0.5mm -> the substrate lie beneath the die
@@ -549,6 +553,8 @@ Summary
 
 
 
+
+
 <img width="1920" height="1080" alt="p1" src="https://github.com/user-attachments/assets/998b7cb5-69dd-42fe-883d-160bbff8037f" />
 
 <img width="1920" height="1080" alt="p2" src="https://github.com/user-attachments/assets/bc199462-bd7d-4fb6-b0ec-b14b8770d189" />
@@ -569,7 +575,4 @@ Summary
 Mr. Kunal Ghosh, VSD
 
 Prof.Tarun Agarwal, Professor-IIT Gandhinagar
-
-
-
 
