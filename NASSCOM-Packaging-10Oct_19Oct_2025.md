@@ -525,15 +525,24 @@ Summary
                  
                  Adjust the substrate position along Z-axis to account for the die attach thickness -> (-1, -1, -0.1)
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (10)](https://github.com/user-attachments/assets/4a530a1d-a521-4197-9b7f-86715fe98e6f)
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1834).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1835).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1836).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1837).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1838).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1839).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1840).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1841).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1842).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1843).png" />
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (8)](https://github.com/user-attachments/assets/687679d0-ebc3-421b-9a44-aed46141955a)
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1844).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1845).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1846).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1847).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1848).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1849).png" />
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (7)](https://github.com/user-attachments/assets/a5ad8e28-dd5b-4259-9275-ce554a5dcf5e)
-
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (6)](https://github.com/user-attachments/assets/835cb817-d11a-4d79-b004-65e85c2d44e0)
-
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (5)](https://github.com/user-attachments/assets/de936e1b-fa13-494f-b45f-d195b22aac18)
 
 >> Adding Die Attach Material and Bond Pads
 >>
@@ -543,10 +552,10 @@ Summary
 
 
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (4)](https://github.com/user-attachments/assets/e54b552d-3739-4c61-b686-4e152e03d629)
 
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1850).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1858).png" />
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (3)](https://github.com/user-attachments/assets/cc5e5c61-d133-40f2-b7e9-eb75f17aaa7b)
 
 >>      Create Bond pads on Die and Substrate
           Draw a small rectangle and configure its size to to that of the die pad (0.2mm x 0.2mm) -> place the first Die Pad at the co-ordinates (0.2, 0.2, 0.2) so that it sits on top of the die and is at one of the edges. Set the thickness to  0.005mm
@@ -565,18 +574,34 @@ Summary
                                                    Position at (-1, -1, -0.1) covering the top side of the substrate.
                                                    Set the thickness to 1.2mm so that it covers the die and the bondwires, while also leaving margin for any laser marking processes
 
-![WhatsApp Image 2025-07-10 at 4 42 37 PM (2)](https://github.com/user-attachments/assets/480fd0b2-16c0-4f9b-b18a-a205e8022692)
-
-![WhatsApp Image 2025<img width="1920" height="1080" alt="p1" src="https://github.com/user-attachments/assets/05758841-684f-4895-8205-a47e1c647fe8" />
-
-<img width="1920" height="1080" alt="p1" src="https://github.com/user-attachments/assets/998b7cb5-69dd-42fe-883d-160bbff8037f" />
-
-<img width="1920" height="1080" alt="p2" src="https://github.com/user-attachments/assets/bc199462-bd7d-4fb6-b0ec-b14b8770d189" />
-
-<img width="1920" height="1080" alt="p3" src="https://github.com/user-attachments/assets/11e29b19-b58c-4c5c-af0c-14bc1c98fec9" />
-
-
-
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1859).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1860).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1861).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1862).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1863).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1864).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1865).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1866).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1867).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1868).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1869).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1870).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1871).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1872).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1873).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1874).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1875).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1876).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1877).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1878).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1879).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1880).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1881).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1882).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1883).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1884).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1885).png" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1886).png" />
 
 
 >> Do the Thermal simulation as in Lab 1 using IcePak tool
