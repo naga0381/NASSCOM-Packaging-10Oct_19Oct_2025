@@ -561,6 +561,6 @@ Mr. Kunal Ghosh, VSD
 
 Prof.Tarun Agarwal, Professor-IIT Gandhinagar
 
-Abhimanyu Singh, ANSYS
+
 
 
