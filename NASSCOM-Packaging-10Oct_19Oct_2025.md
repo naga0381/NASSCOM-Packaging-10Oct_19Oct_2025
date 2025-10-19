@@ -450,7 +450,7 @@ Summary
 
 
 
-# Lab 2: Package Design and Modeling- Building a Semiconductor Package from Scratch
+# Module 5: Lab 2: Package Design and Modeling- Building a Semiconductor Package from Scratch
 
 >> Package Design and Modelling
               Simulator module: Q3D design
