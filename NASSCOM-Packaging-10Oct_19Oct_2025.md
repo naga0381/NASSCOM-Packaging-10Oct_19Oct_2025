@@ -345,18 +345,15 @@ Package selected: FlipChip package
 
                        
 
-<img width="1648" height="908" alt="f12" src="https://github.com/user-attachments/assets/e3642e22-b885-428d-a8ae-8b743c285978" />
-
-<img width="1874" height="778" alt="f2" src="https://github.com/user-attachments/assets/1da39119-9ed5-43d8-9f99-35d49f6279a2" />
-
-<img width="1920" height="1080" alt="f16" src="https://github.com/user-attachments/assets/fa5511a0-d21c-4610-a276-c9d584880735" />
-
-<img width="1119" height="647" alt="f17" src="https://github.com/user-attachments/assets/e1b290e4-42df-412b-b9ea-789be6adfa21" />
-
-<img width="1920" height="1080" alt="f18" src="https://github.com/user-attachments/assets/d3b6ff6e-a031-44b1-9a58-ae957b7049e9" />
-
-<img width="1251" height="727" alt="f19" src="https://github.com/user-attachments/assets/d3b66a64-6839-4d96-b385-5721f048c8e2" />
-
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1791).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1792).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1793).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1794).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1795).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1796).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1797).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1798).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1799).png" />
 
 >> Meshing And Running The Thermal Analysis
 >>
@@ -367,15 +364,13 @@ Package selected: FlipChip package
 >>      Review Mesh Quality metrics
 >>           Once the mesh is generated, review the quality metrics of the generated mesh such as Face Alignment, Skewness and Volume.
 
-<img width="1920" height="1080" alt="f20" src="https://github.com/user-attachments/assets/302a12c6-093d-49c5-9736-6152c6f81be6" />
-
-<img width="1920" height="1080" alt="f21" src="https://github.com/user-attachments/assets/e807104d-482a-4d6e-835a-0458ad3859da" />
-
-<img width="601" height="865" alt="f22" src="https://github.com/user-attachments/assets/829f7d89-8ddf-4f88-a297-84f63c9f822e" />
-
-<img width="589" height="820" alt="f23" src="https://github.com/user-attachments/assets/7df401d4-21c0-4e88-ac68-dd5326a4e89a" />
-
-<img width="603" height="814" alt="f24" src="https://github.com/user-attachments/assets/6bcdafa4-9e60-4b0a-bbc1-addd15ef284d" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1800).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1801).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1802).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1803).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1804).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1805).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1806).png" />
 
 
 >> Add Thermal Analysis
@@ -383,9 +378,9 @@ Package selected: FlipChip package
            >> select Add Analysis Setup and configure the solver settings as required.
 
 
-<img width="1920" height="1080" alt="f25" src="https://github.com/user-attachments/assets/a47531a7-14c4-438f-8050-4978e8a97c41" />
-
-<img width="1319" height="746" alt="f26" src="https://github.com/user-attachments/assets/e9a4aebb-421f-4a40-a72a-077a271acdce" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1807).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1808).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1809).png" />
 
 >> Analysing Results And Exploring Other Package Types
 >> 
@@ -400,16 +395,22 @@ Package selected: FlipChip package
                                                        Plot on Surface only
                                                        Surface Smoothing -> Enable Gaussian Smoothing
 
-<img width="1920" height="1080" alt="f29" src="https://github.com/user-attachments/assets/36d87a58-100d-4703-85ae-ba5048b6a471" />
-<img width="1920" height="1080" alt="f28" src="https://github.com/user-attachments/assets/fe3dfe55-05dd-4733-88a2-0b7b9c7b7ccd" />
-<img width="1920" height="1080" alt="f27" src="https://github.com/user-attachments/assets/257218a9-7f68-48be-ab43-737a4d233b2a" />
-<img width="1723" height="838" alt="f36" src="https://github.com/user-attachments/assets/0266b841-57cc-4997-b531-24abc853c8cd" />
-<img width="1566" height="787" alt="f35" src="https://github.com/user-attachments/assets/7c963b12-be56-49a7-9ac1-dbfc9190efbc" />
-<img width="1797" height="619" alt="f34" src="https://github.com/user-attachments/assets/9e765eb1-a6e7-4da1-83a6-11c70d9e0e14" />
-<img width="772" height="565" alt="f33" src="https://github.com/user-attachments/assets/7dbe84df-eae2-409b-a8bb-092e0c961d03" />
-<img width="742" height="539" alt="f32" src="https://github.com/user-attachments/assets/e2360783-d364-4176-9ffa-5470f700556c" />
-<img width="1920" height="1080" alt="f31" src="https://github.com/user-attachments/assets/706ddeaf-09a4-49b0-a85d-a4dc9d33974e" />
-<img width="1876" height="981" alt="f30" src="https://github.com/user-attachments/assets/98f49896-435a-416e-9745-13725b7ec920" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1809).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1810).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1811).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1812).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1813).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1814).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1815).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1816).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1817).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1818).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1819).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1820).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1821).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1822).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1823).png" />
+<img width="1648" height="908" alt="f12" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/Screenshot%20(1824).png" />
 
 
 
