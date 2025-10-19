@@ -6,6 +6,7 @@
 # Module 1: Packaging Evolution: From Basics to 3D Integration
 L1: Introduction to Semiconductor Packaging
  Semiconductor packaging is the final step in the semiconductor device manufacturing process, where the processed chip (or die) is encased in a protective housing and connected to the external environment, such as a printed circuit board (PCB). This packaging safeguards the chip, enables electrical connections, and facilitates heat dissipation.
+ <img width="1032" height="572" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/MODULE1.jpg" />
 <img width="1032" height="572" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/0.jpg" />
 <img width="1032" height="572" alt="image" src="https://github.com/user-attachments/assets/4ced9073-e23c-4772-b426-54e0992264e4" />
 
@@ -131,7 +132,8 @@ Selecting the right semiconductor packaging depends on multiple criteria across 
 # Module 2: From Wafer to Package: Assembly and Manufacturing Essential
      Semiconductor packaging is the final phase of semiconductor manufacturing, where chips (dies) are encased in a protective material and made ready for integration into electronic devices. This supply chain is complex, global, and involves several highly specialized processes and companies.
            ATMP – Assembly, Testing, Marking, and Packaging
-
+<img width="1038" height="584" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/MODULE2.jpg" />
+<img width="1038" height="584" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/5.jpg" />
     1. Wafer Fabrication (Upstream)
       Performed by IDMs (Integrated Device Manufacturers) or foundries like TSMC, Samsung, or Intel.
       Output: Bare silicon wafers with integrated circuits.
@@ -279,6 +281,9 @@ Wire bonding is a critical process used in microelectronics to create electrical
 Tool - ANSYS 
 simulator module- Icepak
 Package selected: FlipChip package
+
+<img width="1042" height="594" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/MODULE3.jpg" />
+
 >> Introduction And Getting Started With ANSYS Electronics Desktop
 
 >>     ANSYS Electronics Desktop (AEDT) is an integrated multi-physics simulation platform that unifies electromagnetic, signal integrity, thermal, and electro-mechanical analysis tools. It is extensively used for the design and evaluation of high-speed electronic circuits and complex systems.
@@ -417,6 +422,9 @@ Package selected: FlipChip package
 
 
 # Module 4: Ensuring Package reliability: Testing and Performance Validation
+
+<img width="1040" height="575" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/MODULE4.jpg" />
+<img width="1040" height="575" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/15.jpg" />
 >>   Introduction to Package Testing and Electrical Functionality Checks
 >>       Integrated circuits (ICs) undergo testing at various stages of the manufacturing process to verify their performance, reliability, and functionality. These tests are conducted both at the semiconductor foundry and at outsourced semiconductor assembly and test (OSAT) facilities.
 
@@ -451,7 +459,8 @@ Summary
 
 
 # Module 5: Lab 2: Package Design and Modeling- Building a Semiconductor Package from Scratch
-
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/MODULE5.jpg" />
+<img width="835" height="438" alt="image" src="https://github.com/naga0381/NASSCOM-Packaging-10Oct_19Oct_2025/blob/main/17.jpg" />
 >> Package Design and Modelling
               Simulator module: Q3D design
 >> 
