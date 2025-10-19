@@ -275,7 +275,7 @@ Wire bonding is a critical process used in microelectronics to create electrical
 
 
 
-# lECTURE 3: Lab 1: Thermal simulation of Semiconductor Packages with ANSYS
+# Module 3: Lab 1: Thermal simulation of Semiconductor Packages with ANSYS
 Tool - ANSYS 
 simulator module- Icepak
 Package selected: FlipChip package
